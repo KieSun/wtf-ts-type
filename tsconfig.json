@@ -7,7 +7,7 @@
     "skipLibCheck": true,
     "baseUrl": ".",
     "noUnusedLocals": false,
-    "noUnusedParameters": true,
+    "noUnusedParameters": false,
     "noFallthroughCasesInSwitch": true,
     "outDir": "./dist"
   }
