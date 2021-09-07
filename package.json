@@ -1,0 +1,24 @@
+{
+  "name": "wtf-ts-type",
+  "version": "1.0.0",
+  "description": "TS 国家体操队队员入选门槛要求",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KieSun/wtf-ts-type.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KieSun/wtf-ts-type/issues"
+  },
+  "homepage": "https://github.com/KieSun/wtf-ts-type#readme",
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1",
+    "typescript": "^4.4.2"
+  }
+}
